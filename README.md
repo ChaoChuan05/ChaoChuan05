@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Chao Chuan 👋
 
-<!--
-**ChaoChuan05/ChaoChuan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who enjoys building practical, efficient, and well-designed software.
+I focus on clean architecture, automation, and smooth user experiences. ✨
 
-Here are some ideas to get you started:
+🔧 What I’m Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MQL5 trading automation — Expert Advisors & custom indicators 📈
+Flutter mobile app — modern UI & clean architecture 📱
+
+📚 Current Interests
+
+Algorithmic trading — trend systems & strategy optimization 💹
+Flutter development — animations & UX improvements 🎨
+
+🧰 Tech I Use
+
+Languages: Dart, Python, C++, MQL5
+Tools: Flutter, MetaTrader 5, Git
+
+📫 Contact
+
+GitHub: You're already here 😉
+Email: chaochuandev@outlook.my
