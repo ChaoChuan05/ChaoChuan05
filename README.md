@@ -21,4 +21,5 @@ Tools: Flutter, MetaTrader 5, Git
 📫 Contact
 
 GitHub: You're already here 😉
+
 Email: chaochuandev@outlook.my
